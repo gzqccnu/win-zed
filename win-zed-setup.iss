@@ -1,3 +1,6 @@
+; Copyright (c) 2025 gzqccnu. All rights reserved.
+; https://github.com/gzqccnu/win-zed
+
 [Setup]
 AppName=Zed
 AppVersion=0.202.0          ; Zed Dev 0.202.0
