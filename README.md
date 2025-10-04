@@ -12,7 +12,7 @@ You can use **zed** in command.
 After you install **win-zed** by installer. When you Right-Click the `file` or `direcory` or the `blank` in**Windows File Explorer**, you will find **zed** in the context menu, that means you can conviently open file or directory or project with **zed**.
 
 ## Registry
-This part list all the **installer** do in **Registry**. It will benifit you if you want to know what the `installer` do.
+This part lists all the **installer** do in **Registry**. It will benifit you if you want to know what the `installer` do.
 | Root  | SubKey                          | ValueType | ValueName | ValueData                     |
 |-------|---------------------------------|-----------|-----------|-------------------------------|
 | HKCR  | `*\shell\Zed`                   | string    |           | `Using Zed to open`           |
