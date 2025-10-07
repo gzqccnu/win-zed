@@ -1,5 +1,7 @@
 # win-zed
 
+![Number of GitHub Downloads badge](https://img.shields.io/github/downloads/gzqccnu/win-zed/total?color=pink&label=GitHub%20Downloads)
+
 A built Windows release of [Zed](https://github.com/zed-industries/zed) (non-official). Zed version: 0.202.0. Here offer the [installer executable file](https://github.com/gzqccnu/win-zed/releases/download/0.1.0/win-zed-setup.exe). Or you can using the [script](./win-zed-setup.iss) to build your own `installer`, but actually it needs the pre-built **zed**. So I recommend you to just run the `installer`, why I offer the building file is to make it clear what the installer did. Also the `installer` will make your use more comfortable, you can find it in [feature](#feature).
 
 > [!Caution]
