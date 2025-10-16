@@ -1,4 +1,6 @@
 # win-zed
+> [!Tip]
+> Here! Congrations for the official support for Windows! You can go [there to get the official release](https://github.com/zed-industries/zed/releases/tag/v0.208.4)
 
 ![Number of GitHub Downloads badge](https://img.shields.io/github/downloads/gzqccnu/win-zed/total?color=pink&label=GitHub%20Downloads)
 
